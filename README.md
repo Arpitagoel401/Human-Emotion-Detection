@@ -39,9 +39,9 @@ Preprocessing: Image resizing, normalization, and data augmentation to improve m
 
 Model Architecture: A Convolutional Neural Network (CNN) designed to learn and classify facial expressions effectively.
 
-Metrics: Accuracy, precision, recall, and F1-score to evaluate model performance.
+Metrics: Accuracy to evaluate model performance.
 
-Deployment: Integration with a GUI or API for real-time emotion detection.
+Deployment: Integration with a GUI for real-time emotion detection.
 
 ## Project Workflow
 
